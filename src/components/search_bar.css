@@ -1,0 +1,19 @@
+.search_bar {
+    padding: 16px;
+    width: 100%;
+     text-align: center;
+}
+
+.search_bar input {
+    width: 100%;
+    padding: 10px;
+}
+
+
+.list-group-item {
+    cursor: pointer;
+}
+
+.list-group-item:hover {
+    background-color: #EEE;
+}

@@ -21,6 +21,10 @@
 .App-intro {
   font-size: large;
 }
+.col-md-8{
+  width: 100%;
+  max-width: 80% !important;
+}
 
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
